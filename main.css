@@ -1,0 +1,7 @@
+@import url("./src/css/normalize/normalize.css");
+
+@import url("./src/css/variables/variables.css");
+@import url("./src/css/utils/utils.css");
+@import url("./src/css/general/general.css");
+@import url("./src/css/components/components.css");
+@import url("./src/css/layout/layout.css");
