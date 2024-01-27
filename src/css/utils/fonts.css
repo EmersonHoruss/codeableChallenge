@@ -1,0 +1,72 @@
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoItalic100.woff2");
+  font-style: italic;
+  font-weight: 100;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoItalic300.woff2");
+  font-style: italic;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoItalic400.woff2");
+  font-style: italic;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoItalic500.woff2");
+  font-style: italic;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoItalic700.woff2");
+  font-style: italic;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoItalic900.woff2");
+  font-style: italic;
+  font-weight: 900;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoNormal100.woff2");
+  font-style: normal;
+  font-weight: 100;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoNormal300.woff2");
+  font-style: normal;
+  font-weight: 300;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoNormal400.woff2");
+  font-style: normal;
+  font-weight: 400;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoNormal500.woff2");
+  font-style: normal;
+  font-weight: 500;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoNormal700.woff2");
+  font-style: normal;
+  font-weight: 700;
+}
+@font-face {
+  font-family: "MyRoboto";
+  src: url("../assets/fonts/RobotoNormal900.woff2");
+  font-style: normal;
+  font-weight: 900;
+}

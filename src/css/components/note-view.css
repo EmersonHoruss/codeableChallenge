@@ -1,0 +1,8 @@
+.note-view {
+  width: 100%;
+  height: auto;
+  padding: 16px;
+  border-radius: 16px;
+  border: 2px;
+  border-color: var(--palette-color-gray2);
+}
