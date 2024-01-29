@@ -5,6 +5,10 @@
   justify-content: center;
   align-items: center;
 }
+.column {
+  display: flex;
+  flex-direction: column;
+}
 .w-fit-content {
   width: fit-content !important;
 }
@@ -24,4 +28,10 @@
 }
 .scroll::-webkit-scrollbar-track {
   background-color: var(--palette-color-gray6);
+}
+.hidden {
+  display: none;
+}
+.gap-1 {
+  gap: 4px;
 }

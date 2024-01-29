@@ -1,4 +1,6 @@
 :root {
-  --shadow-intensive-0: 2px 2px 5px var(--palette-color-gray4);
-  --shadow-intensive-1: 2px 2px 5px var(--palette-color-gray2);
+  --shadow-intensive2: 2px 2px 5px var(--palette-color-gray2);
+  --shadow-intensive4: 2px 2px 5px var(--palette-color-gray4);
+  --shadow-error-intensive1: 1px 1px 2px var(--palette-color-error1);
+  --shadow-error-intensive2: 1px 1px 2px var(--palette-color-error2);
 }

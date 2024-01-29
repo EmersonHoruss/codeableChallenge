@@ -5,5 +5,8 @@
   --palette-color-gray5: rgb(224, 224, 224);
   --palette-color-gray6: rgb(242, 242, 242);
   --palette-color-white: rgb(255, 255, 255);
-  --box-shadow-hover: 
+  --palette-color-error1: red;
+  --palette-color-error2: rgba(255,0,0,.5);
+  --palette-color-warning: yellow;
+  --palette-color-info: blue;
 }

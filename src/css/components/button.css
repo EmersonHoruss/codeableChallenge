@@ -8,7 +8,7 @@
   cursor: pointer;
 }
 .button-big:hover{
-  box-shadow: var(--shadow-intensive-1);
+  box-shadow: var(--shadow-intensive2);
 }
 .button-small {
   width: 100%;
@@ -20,5 +20,5 @@
   cursor: pointer;
 }
 .button-small:hover {
-  box-shadow: var(--shadow-intensive-0);
+  box-shadow: var(--shadow-intensive4);
 }

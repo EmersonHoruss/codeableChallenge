@@ -10,6 +10,9 @@ class NoteController {
     const notes = this.noteModel.list();
     NoteView.render(notes);
   }
+  getValidation(note) {
+    return this.noteModel.getValidation(note);
+  }
   add(note) {
     this.noteModel.add(note);
     const notes = this.noteModel.list();

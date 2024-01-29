@@ -14,6 +14,8 @@ class NoteView {
         listNotesViewElement(notes),
       ]
     );
+
+    // document.getElementById("inputCreateNote").focus({ focusVisible: true });
   }
 }
 

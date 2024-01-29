@@ -29,3 +29,9 @@ body {
   text-align: center;
   color: var(--palette-color-white);
 }
+.text-error {
+  font-size: var(--text-tiny);
+  color: var(--palette-color-error1);
+  font-weight: 500;
+  line-height: 29px;
+}
