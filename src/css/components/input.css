@@ -1,8 +1,22 @@
+:root {
+  --active-input-style: 2px 2px 5px var(--palette-color-gray2);
+}
 .input {
   width: 100%;
   height: 120px;
   padding: 16px;
   border-radius: 16px;
-  border: 2px;
-  border-color: var(--palette-color-gray2);
+  border: 2px solid var(--palette-color-gray2);
+  box-sizing: border-box;
+  outline: none;
+  resize: none;
+}
+.input::placeholder {
+  color: var(--palette-color-gray4);
+}
+.input:hover {
+  box-shadow: var(--active-input-style);
+}
+.input:focus {
+  box-shadow: var(--active-input-style);
 }

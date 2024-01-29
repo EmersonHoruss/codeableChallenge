@@ -1,8 +1,11 @@
 .note-view {
   width: 100%;
   height: auto;
+  gap: 16px;
+  display: flex;
+  flex-direction: column;
   padding: 16px;
   border-radius: 16px;
-  border: 2px;
-  border-color: var(--palette-color-gray2);
+  border: 2px solid var(--palette-color-gray2);
+  box-sizing: border-box;
 }

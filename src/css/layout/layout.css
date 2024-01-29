@@ -1,0 +1,25 @@
+body {
+  background-color: var(--palette-color-gray6);
+  display: flex;
+  justify-content: center;
+}
+.app {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  padding: 32px 16px;
+  width: 100vw;
+  height: 100vh;
+  box-sizing: border-box;
+  max-width: 505px;
+}
+.zone-create {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.zone-view {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}

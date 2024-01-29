@@ -2,7 +2,6 @@ body {
   font-family: "MyRoboto";
 }
 .text {
-  font-family: Roboto;
   font-size: var(--text-medium);
   font-weight: 400;
   line-height: 29px;
@@ -10,23 +9,20 @@ body {
   color: var(--palette-color-gray1);
 }
 .text-title-1 {
-  font-family: Roboto;
   font-size: var(--text-big);
   font-weight: 700;
   line-height: 38px;
   text-align: center;
   color: var(--palette-color-gray1);
 }
-.text-small-button {
-  font-family: Roboto;
+.text-button-small {
   font-size: var(--text-small);
   font-weight: 700;
   line-height: 22px;
   text-align: center;
   color: var(--palette-color-gray2);
 }
-.text-big-button {
-  font-family: Roboto;
+.text-button-big {
   font-size: var(--text-medium);
   font-weight: 700;
   line-height: 29px;
