@@ -1,6 +1,3 @@
-:root {
-  --active-input-style: 2px 2px 5px var(--palette-color-gray2);
-}
 .input {
   width: 100%;
   height: 120px;
@@ -15,8 +12,8 @@
   color: var(--palette-color-gray4);
 }
 .input:hover {
-  box-shadow: var(--active-input-style);
+  box-shadow: var(--shadow-intensive-1);
 }
 .input:focus {
-  box-shadow: var(--active-input-style);
+  box-shadow: var(--shadow-intensive-1);
 }

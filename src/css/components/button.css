@@ -7,6 +7,9 @@
   background-color: var(--palette-color-gray2);
   cursor: pointer;
 }
+.button-big:hover{
+  box-shadow: var(--shadow-intensive-1);
+}
 .button-small {
   width: 100%;
   height: 30px;
@@ -15,4 +18,7 @@
   border: none;
   background-color: var(--palette-color-gray5);
   cursor: pointer;
+}
+.button-small:hover {
+  box-shadow: var(--shadow-intensive-0);
 }
